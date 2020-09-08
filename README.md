@@ -1,4 +1,4 @@
-# Wikipedia dumps parsing and basic cleaning
+## Wikipedia dumps parsing and basic cleaning
 
  The codes in this repository allow to parse Wikipedia dump files (in XML format) and perform the basic cleaning of the text.
 
@@ -15,7 +15,7 @@ This code is a shorten and modified version of the project _"Wikipedia Data Scie
 
 <p>&nbsp;</p>
 
-#### Libraries needed:
+### Libraries needed:
 * requests
 * sys
 * keras.utils
