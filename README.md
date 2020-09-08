@@ -25,4 +25,5 @@ This code is a shorten and modified version of the project _"Wikipedia Data Scie
 * subprocess
 * gc
 * mwparsefromhell
+* re
 * pandas
